@@ -1,2 +1,2 @@
 # myRedis
-a redis writeen in java
+a redis written in java
